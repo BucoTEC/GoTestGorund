@@ -6,7 +6,7 @@ function main() {
   document.write("this is a multi-line comment!");
   document.write("this is a multi-line comment!");
   document.write("this is a multi-line comment!");
-*/
+  */
   // Only change code above this line
 }
 
