@@ -5,6 +5,8 @@ function main(numOne, numTwo) {
   return product;
 }
 
-console.log(main(numOne, numTwo)); // change this line
+console.log(main(15, 3)); // change this line
+console.log(main(25, 8)); // change this line
+console.log(main(425, 10)); // change this line
 
 module.exports = main;

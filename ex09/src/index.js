@@ -5,6 +5,8 @@ function main(numOne, numTwo) {
   return difference;
 }
 
-console.log(main(numOne, numTwo)); // change this line
+console.log(main(15, 8)); // change this line
+console.log(main(25, 8)); // change this line
+console.log(main(425, 120)); // change this line
 
 module.exports = main;
